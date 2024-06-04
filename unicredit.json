@@ -1,0 +1,15 @@
+{
+  "module_name": "unicredit",
+  "enable_date_formatter": true,
+  "replace_date_separator": null,
+  "has_dare_and_avere_columns": false,
+  "header": {
+    "from": 0,
+    "to": 3
+  },
+  "index_column_data_di_registrazione": 0,
+  "index_column_importo": 3,
+  "index_column_dare": null,
+  "index_column_avere": null,
+  "index_column_descrizione": 2
+}
