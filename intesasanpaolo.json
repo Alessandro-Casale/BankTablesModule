@@ -1,7 +1,7 @@
 {
   "module_name": "intesasanpaolo",
   "enable_date_formatter": false,
-  "replace_date_separator": "/",
+  "replace_date_separator": ".",
   "has_dare_and_avere_columns": true,
   "header": {
     "from": 0,
