@@ -20,9 +20,5 @@
     "stripe": {
         "description": "Stripe",
         "to_include": ["stripe", "bonifico a vostro favore bonifico sepa da  stripe"]
-    },
-    "test": {
-        "description": "Test",
-        "to_include": ["test", "test aaaaa"]
     }
 }
