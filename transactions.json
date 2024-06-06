@@ -1,0 +1,24 @@
+{
+    "module_name": "transactions",
+    "version": 0.1,
+    "pos": {
+        "description": "Incasso tramite P.O.S.",
+        "to_include": ["incasso tramite p.o.s.", "incasso pos", "p.o.s."]
+    },
+    "versamenti": {
+        "description": "Versamenti",
+        "to_include": ["versamenti", "versamento"]
+    },
+    "spese": {
+        "description": "Spese",
+        "to_include": ["spese"]
+    },
+    "commissioni": {
+        "description": "Commissioni",
+        "to_include": ["commissioni", "imprendo one"]
+    },
+    "stripe": {
+        "description": "Stripe",
+        "to_include": ["stripe", "bonifico a vostro favore bonifico sepa da  stripe"]
+    }
+}
