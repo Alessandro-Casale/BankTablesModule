@@ -1,6 +1,6 @@
 {
   "module_name": "intesasanpaolo",
-  "version": 0.4,
+  "version": 0.5,
   "enable_date_formatter": false,
   "replace_date_separator": ".",
   "has_dare_and_avere_columns": true,
