@@ -12,5 +12,6 @@
   "index_column_importo": null,
   "index_column_dare": 2,
   "index_column_avere": 3,
-  "index_column_descrizione": 5
+  "index_column_descrizione": 5,
+  "index_column_additional_descrizione": 6
 }
