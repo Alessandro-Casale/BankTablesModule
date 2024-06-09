@@ -1,28 +1,34 @@
 {
     "module_name": "transactions",
-    "version": 0.2,
+    "version": 0.3,
     "pos": {
         "description": "Incasso tramite P.O.S.",
-        "to_include": ["incasso tramite p.o.s.", "incasso pos", "p.o.s."]
+        "to_include": ["incasso tramite p.o.s.", "incasso pos", "p.o.s."],
+        "use_different_elaborator_method": false
     },
     "versamenti": {
         "description": "Versamenti",
-        "to_include": ["versamenti", "versamento"]
+        "to_include": ["versamenti", "versamento"],
+        "use_different_elaborator_method": false
     },
     "spese": {
         "description": "Spese",
-        "to_include": ["spese"]
+        "to_include": ["spese"],
+        "use_different_elaborator_method": false
     },
     "commissioni": {
         "description": "Commissioni",
-        "to_include": ["commissioni", "imprendo one"]
+        "to_include": ["commissioni", "imprendo one"],
+        "use_different_elaborator_method": false
     },
     "stripe": {
         "description": "Stripe",
-        "to_include": ["stripe", "bonifico a vostro favore bonifico sepa da  stripe"]
+        "to_include": ["stripe", "bonifico a vostro favore bonifico sepa da  stripe"],
+        "use_different_elaborator_method": false
     },
     "bonifici": {
         "description": "Bonifici",
-        "to_include": []
+        "to_include": [],
+        "use_different_elaborator_method": true
     }
 }
