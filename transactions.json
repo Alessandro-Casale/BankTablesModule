@@ -1,6 +1,6 @@
 {
     "module_name": "transactions",
-    "version": 0.1,
+    "version": 0.2,
     "pos": {
         "description": "Incasso tramite P.O.S.",
         "to_include": ["incasso tramite p.o.s.", "incasso pos", "p.o.s."]
@@ -20,5 +20,9 @@
     "stripe": {
         "description": "Stripe",
         "to_include": ["stripe", "bonifico a vostro favore bonifico sepa da  stripe"]
+    },
+    "bonifici": {
+        "description": "Bonifici",
+        "to_include": []
     }
 }
