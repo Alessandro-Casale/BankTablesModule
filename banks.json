@@ -1,6 +1,6 @@
 {
-  "module_name": "transactions",
-  "version": 0.1,
+  "module_name": "banks",
+  "version": 0.2,
   "intesa_san_paolo": {
     "enable_date_formatter": false,
     "replace_date_separator": ".",
