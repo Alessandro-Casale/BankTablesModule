@@ -1,6 +1,6 @@
 {
     "module_name": "transactions",
-    "version": 0.3,
+    "version": 0.4,
     "pos": {
         "description": "Incasso tramite P.O.S.",
         "to_include": ["incasso tramite p.o.s.", "incasso pos", "p.o.s."],
