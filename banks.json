@@ -1,0 +1,34 @@
+{
+  "module_name": "transactions",
+  "version": 0.1,
+  "intesa_san_paolo": {
+    "enable_date_formatter": false,
+    "replace_date_separator": ".",
+    "has_dare_and_avere_columns": true,
+    "header": {
+      "from": 0,
+      "to": 9
+    },
+    "index_column_data_di_registrazione": 1,
+    "index_column_importo": null,
+    "index_column_dare": 2,
+    "index_column_avere": 3,
+    "index_column_descrizione": 5,
+    "index_column_additional_descrizione": 6
+  },
+  "unicredit": {
+    "enable_date_formatter": true,
+    "replace_date_separator": null,
+    "has_dare_and_avere_columns": false,
+    "header": {
+      "from": 0,
+      "to": 3
+    },
+    "index_column_data_di_registrazione": 0,
+    "index_column_importo": 3,
+    "index_column_dare": null,
+    "index_column_avere": null,
+    "index_column_descrizione": 2,
+    "index_column_additional_descrizione": null
+  }
+}
