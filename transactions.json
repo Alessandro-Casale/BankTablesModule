@@ -1,6 +1,6 @@
 {
     "module_name": "transactions",
-    "version": 0.6,
+    "version": 0.7,
     "pos": {
         "description": "Incasso tramite P.O.S.",
         "to_include": ["incasso tramite p.o.s.", "incasso pos", "p.o.s."],
@@ -15,7 +15,7 @@
     },
     "spese": {
         "description": "Spese",
-        "to_include": ["spese"],
+        "to_include": ["spese", "interessi e competenze"],
         "use_different_elaborator_method": false,
         "causale": "B42"
     },
